@@ -10,6 +10,7 @@ Caching is used when fetching the data files to speed up subsequent executions a
 
 ## Valid Locations
 These are the locations I've seen in Zillow data that you can query on. Partial matches are enabled, so you could just use city name assuming it is unique.
+
 New York, NY
 
 Los Angeles-Long Beach-Anaheim, CA
